@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React , Firebase**
 
-- 💬 Ask me about **C/C++ , HTML , CSS**
+- 💬 Ask me about ** DSA , C/C++ , HTML , CSS **
 
 - 📫 How to reach me **tanmaydeshpande1588@gmail.com**
 
